@@ -11,7 +11,10 @@
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.0.4"
+    "next": "14.0.4",
+    "@apollo/client": "^3.8.8",
+    "graphql": "^16.8.1",
+    "graphql-yoga": "^5.1.0"
   },
   "devDependencies": {
     "typescript": "^5",
